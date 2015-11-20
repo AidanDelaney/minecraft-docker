@@ -1,0 +1,4 @@
+minecraft:
+    build: .
+    ports:
+      - 25565:25565
